@@ -1,4 +1,4 @@
-baseURL = "https://www.hakuna-automata.com/"
+baseURL = "http://www.hakuna-automata.com/"
 languageCode = "en-us"
 title = "Hakuna Automata!"
 theme = "hyde"
