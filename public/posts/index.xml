@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hakuna Automata</title>
+    <link>http://hakuna-automata.com/posts/</link>
+    <description>Recent content in Posts on Hakuna Automata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jul 2015 16:55:43 -0700</lastBuildDate>
+    
+	<atom:link href="http://hakuna-automata.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Oblique Strategies for Atom</title>
+      <link>http://hakuna-automata.com/posts/oblique-strategies-for-atom/</link>
+      <pubDate>Mon, 13 Jul 2015 16:55:43 -0700</pubDate>
+      
+      <guid>http://hakuna-automata.com/posts/oblique-strategies-for-atom/</guid>
+      <description>Last week I built oblique-strategies, a package for Atom that displays a random aphorism if you stop typing for some time.
+Brian Eno and Peter Schmidt published a deck of cards in 1975 called Oblique Strategies. When you need inspiration, draw a card at random to read a strategy for thinking about a problem.
+Earlier this month, I read Kevin Lawler’s Oblique Strategies: Prompts for Programmers and decided to create this package that would do this for programmers.</description>
+    </item>
+    
+  </channel>
+</rss>

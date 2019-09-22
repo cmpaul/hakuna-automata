@@ -1,0 +1,14 @@
+baseURL = "http://hakuna-automata.com/"
+languageCode = "en-us"
+title = "Hakuna Automata!"
+theme = "hyde"
+
+[params]
+  description = "A blog about developing software"
+  layoutReverse = true
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/cmpaul/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/cmpaul/"}
+  ]
