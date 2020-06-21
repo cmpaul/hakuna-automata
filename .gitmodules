@@ -1,3 +1,7 @@
 [submodule "themes/hyde"]
 	path = themes/hyde
 	url = https://github.com/cmpaul/hyde.git
+[submodule "public"]
+	path = public
+	url = git@github.com:cmpaul/cmpaul.github.io.git
+	branch = master
