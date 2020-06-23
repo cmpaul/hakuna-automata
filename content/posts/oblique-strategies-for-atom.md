@@ -6,7 +6,9 @@ draft: false
 
 ![A screenshot of the package in action](/images/oblique-strategies-for-atom.png)
 
-Last week I built [oblique-strategies](https://atom.io/packages/oblique-strategies), a package for [Atom](https://atom.io/) that displays a random aphorism if you stop typing for some time.
+I just built [oblique-strategies](https://atom.io/packages/oblique-strategies), a package for [Atom](https://atom.io/) that displays a random aphorism if you stop typing for some time.
+
+<!--more-->
 
 Brian Eno and Peter Schmidt published a deck of cards in 1975 called [Oblique Strategies](http://en.wikipedia.org/wiki/Oblique_Strategies). When you need inspiration, draw a card at random to read a strategy for thinking about a problem.
 
