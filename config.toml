@@ -4,7 +4,7 @@ title = "Hakuna Automata!"
 theme = "hyde"
 
 [params]
-  description = "Developing software, developing people"
+  description = "Developing software and people"
   layoutReverse = true
 
 [Menus]
