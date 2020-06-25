@@ -5,7 +5,7 @@ theme = "hyde"
 
 [params]
   description = "Developing software and people"
-  layoutReverse = true
+  # layoutReverse = true
 
 [Menus]
   main = [
