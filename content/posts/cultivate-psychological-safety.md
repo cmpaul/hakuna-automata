@@ -40,3 +40,5 @@ Use this tactic often. If you find that your team is reluctant to answer constru
 * "Do you have any feedback about how I ran that meeting?" 
 * "What else should we be prioritizing right now?"
 * "How can I be a better partner?"
+
+_Originally published on the [HelloSign Tech Blog](https://www.hellosign.com/blog/5-tips-for-cultivating-psychological-safety)_
