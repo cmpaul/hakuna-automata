@@ -2,7 +2,8 @@ baseURL = "https://hakuna-automata.com/"
 languageCode = "en-us"
 title = "Hakuna Automata"
 
-theme = "hyde"
+# theme = "hyde"
+theme = "beautifulhugo"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
