@@ -1,6 +1,6 @@
 ---
 title: "6 Tips for New Engineering Managers"
-date: 2016-11-17T14:45:39-07:00
+date: 2017-01-17T14:45:39-07:00
 draft: false
 ---
 
