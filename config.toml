@@ -1,10 +1,14 @@
 baseURL = "https://hakuna-automata.com/"
 languageCode = "en-us"
-title = "Hakuna Automata!"
+title = "Hakuna Automata"
+
 theme = "hyde"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
 
 [params]
-  description = "Developing software and people"
+  description = "Personal blog of Chris Paul"
+  subtitle = "A blog about developing software and teams"
   # layoutReverse = true
 
 [Menus]
